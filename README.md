@@ -1,7 +1,7 @@
 <h2 align="center">Hi there! 👋 I'm Matheus Andrade</h1>
 <h3 align="center" style="margin-bottom: 5px;">A passionate software engineer from Brazil 🇧🇷</h3>
 
-- 🔭 Currently working as a **Full-Stack Software Engineer at Apple/FADE UFPE Partnership**
+- 🔭 Currently working as a **Senior Software Engineer at CESAR**
 - 🌱 Exploring **Advanced Swift and Microservices Architecture for Multi-Robot Systems**
 - 💬 Open to discussing **Swift, SwiftUI, Ruby on Rails, C/C++, Robotics**
 - 📫 Reach out via **matheusvtna1@gmail.com**
