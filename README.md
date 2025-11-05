@@ -1,11 +1,11 @@
 <h2 align="center">Hi there! 👋 I'm Matheus Andrade</h1>
 <h3 align="center" style="margin-bottom: 5px;">A passionate software engineer from Brazil 🇧🇷</h3>
 
-- 🔭 Currently working as a **Senior Software Engineer at CESAR**
-- 🌱 Exploring **Advanced Swift and Microservices Architecture for Multi-Robot Systems**
-- 💬 Open to discussing **Swift, SwiftUI, Ruby on Rails, C/C++, Robotics**
-- 📫 Reach out via **matheusvtna1@gmail.com**
-- ⚡ Fun fact: **A tech and sports lover who builds [robots to play soccer autonomously](https://www.youtube.com/watch?v=Rsyu-pDmlwI) ⚽🤖!**
+- 🔭 Currently working as a **Software Development Engineer at Amazon**
+- 🌱 Exploring **Advanced Swift and Formal Methods usage for Multi-Robot Systems**
+- 💬 Open to discussing **Swift, SwiftUI, System Design, Robotics, and Formal Methods**
+- 📝 Explored [Architecture, Implementation and Performance Analysis of a Microservices-Based System for Multi-Robot Systems](https://repositorio.ufpe.br/handle/123456789/58253)
+- ⚡ Fun fact: **A tech and sports lover who builds [robots to play soccer autonomously](https://www.youtube.com/watch?v=Rsyu-pDmlwI) ⚽🤖**
 
 <h3 align="left">🤝 Connect with me</h3>
 <p align="left">
@@ -13,6 +13,8 @@
 <a href="https://linkedin.com/in/matheusvtnandrade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheusvtnandrade" height="30" width="40" /></a>
 <a href="https://medium.com/@matheusvtna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@matheusvtna" height="30" width="40" /></a>
 </p>
+
+📫 Or reach me out via **matheusvtna1@gmail.com**
 
 <h3 align="left">🛠️ Languages and Tools</h3>
 <p align="left">
@@ -39,3 +41,9 @@
 - 1st Place Team at [RoboCup’s Small Size League (SSL) Division B](https://ssl.robocup.org/) (2023, 2022)
 - 1st Place Team in [Small Size League (SSL) at Latin American and Brazilian Robotics Competitions](https://cbr.robocup.org.br/index.php/categorias/) (2023, 2022, 2021, 2020)
 - [Most Improved Team at RoboCup’s Small Size League (SSL)](https://ssl.robocup.org/robocup-2024-awards/) (2024)
+
+
+<h3 align="left">📑 Papers</h3>
+
+- [RobôCIn SSL-Unification: A Modular Software Architecture for Dynamic Multi-robot Systems, RoboCup 2023: Robot World Cup XXVI](https://link.springer.com/chapter/10.1007/978-3-031-55015-7_26)
+- [Micro Frontend Architecture for Robotic Systems: A Systematic Approach with Design Rationale, 2025 IEEE/ACM 7th International Workshop on Robotics Software Engineering (RoSE)](https://ieeexplore.ieee.org/document/11029321)
